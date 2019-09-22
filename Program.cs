@@ -8,6 +8,7 @@ namespace myapp
         {
             Console.WriteLine("Hello World!");
 	    Console.WriteLine("The current time is "+ DateTime.Now);
+        Console.WriteLine("Second line goes here");
 
         }
     }
